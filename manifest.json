@@ -1,0 +1,11 @@
+{
+    "name": "Exchange Rate",
+    "version": "1.0.0",
+    "description": "Simple Exchange Rate Extension",
+    "manifest_version": 3,
+    "author": "Mohamed Ezzat",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Exchange Rate"
+    }
+}
